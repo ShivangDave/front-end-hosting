@@ -38,5 +38,4 @@
 
 - Additional tips:
   - By default, `Netlify` will treat **warnings** as **errors**
-  - You can disable that by adding an environment variable suggested [here](https://docs.netlify.com/configure-builds/troubleshooting-tips/#build-fails-on-warning-message)
-  
+  - You can disable that by adding a build runtime command suggested [here](https://docs.netlify.com/configure-builds/troubleshooting-tips/#build-fails-on-warning-message)
