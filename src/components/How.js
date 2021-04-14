@@ -1,16 +1,18 @@
-export default ({ img }) => {
+export default ({ img, text, link }) => {
   return (
     <div className="how-div">
-      <div className="container">
+      <a
+        href="https://github.com/ShivangDave/front-end-hosting#lets-host-this-app"
+          target="_blank" className="container">
         <img
           src={img}
             className="image" />
         <div className="overlay">
           <div className="text">
-            How Though?
+            { text }
           </div>
         </div>
-      </div>
+      </a>
     </div>
   )
 }

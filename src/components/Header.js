@@ -4,9 +4,9 @@ export default () => {
   return (
     <div className="header-div">
       <Header as='h1' icon className="App-header">
-        <Icon name='github' circular />
+        <Icon name='globe' circular />
         <Header.Content>
-          Let's host this app!
+          Want to learn how I was hosted?
         </Header.Content>
       </Header>
     </div>
