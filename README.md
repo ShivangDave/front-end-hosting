@@ -9,7 +9,7 @@
 >
 > [Hosted Site](https://infallible-leakey-b064a5.netlify.app)
 >
-> [Backend Hosting Guide](https://github.com/ShivangDave/front-end-hosting)
+> [Rails API Hosting Guide](https://github.com/ShivangDave/rails-backend-hosting)
 
 ### Follow me:
 
