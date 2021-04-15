@@ -55,8 +55,16 @@
 - Step 5:
   - Almost done! Only thing left is to click on the `Deploy Site` button.
   - It may take a few minutes based on how many packages you have in your application plus server availability.
+  - TADA! Netlify will now try to deploy the application on every commit. You can limit that by changing `build settings`.
 
-- TADA! Netlify will now try to deploy the application on every commit. You can limit that by changing `build settings`.
+
+- More resources:
+  - [Custom Domains](https://docs.netlify.com/domains-https/custom-domains/)
+  - [Netlify Analytics](https://docs.netlify.com/monitor-sites/analytics/)
+  - [Netlify Image Optimization](https://docs.netlify.com/large-media/transform-images/)
+  - [Netlify Forms](https://docs.netlify.com/forms/setup/)
+  - [Additional Build Configurations](https://docs.netlify.com/configure-builds/get-started/)
+
 
 - Additional tips:
   - By default, `Netlify` will treat **warnings** as **errors**
@@ -66,6 +74,7 @@
   <p align="center">
     <img src="https://i.imgur.com/zdGyy4n.png" height="300px" />
     <img src="https://i.imgur.com/1mebMe8.png" height="300px" />
-    <img src="https://i.imgur.com/8pkG6k8.png" />
-    <img src="https://i.imgur.com/vM9fwUi.png" />
+    <img src="https://i.imgur.com/8pkG6k8.png" height="300px" />
+    <br />
+    <img src="https://i.imgur.com/vM9fwUi.png" height="300px" />
   </p>
