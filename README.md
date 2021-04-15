@@ -7,8 +7,9 @@
 
 > [Picture guide](https://imgur.com/a/Bs9wl8Z)
 >
-> [GitHub Repo](https://infallible-leakey-b064a5.netlify.app)
-
+> [Hosted Site](https://infallible-leakey-b064a5.netlify.app)
+>
+> [Backend Hosting Guide](https://github.com/ShivangDave/front-end-hosting)
 
 ### Follow me:
 
