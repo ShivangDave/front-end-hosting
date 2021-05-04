@@ -67,9 +67,9 @@
 
 
 - Additional tips:
+  - Check [this](https://dev.to/rajeshroyal/page-not-found-error-on-netlify-reactjs-react-router-solved-43oa) out if you're using React Router
   - By default, `Netlify` will treat **warnings** as **errors**
   - You can disable that by adding a build runtime command suggested [here](https://docs.netlify.com/configure-builds/troubleshooting-tips/#build-fails-on-warning-message)
-
 
   <p align="center">
     <img src="https://i.imgur.com/zdGyy4n.png" height="300px" />
